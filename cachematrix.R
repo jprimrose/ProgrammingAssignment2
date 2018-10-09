@@ -1,5 +1,6 @@
-## James Primrose 8/23/2014                 '_' 
-## cacheMatrix.R                           {0,0} - w00t!
+## James Primrose                  
+## cacheMatrix.R                            '_' 
+## 10.09.2018                              {0,0} - w00t!
 ##                                         (|_(\
 ##                                         -"-"-
 ## function that is able to cache potentially time-consuming 
@@ -45,3 +46,4 @@ cacheSolve <- function(x, ...) {
 #cm <- makeCacheMatrix(a)
 #cacheSolve(cm)
 #cacheSolve(cm)
+
